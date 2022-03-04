@@ -6,7 +6,7 @@ package com.hspedu.encap;
 
 import java.util.Scanner;
 
-public class Encapsulation01 {
+public class  Encapsulation01 {
     public static void main(String[] args) {
    //     Person person = new Person();
 //        person.name = "jack";
@@ -29,7 +29,7 @@ class Person {
     private int age;
     private double salary;
 //构造器
-    public Person() {
+    public Person() { 
     }
 //有三个属性的构造器
     public Person(String name, int age, double salary) {

@@ -12,7 +12,7 @@ public class Sub extends Base {
     }
 
     public Sub() {
-        // super();//默认调用父类的无惨构造器隐藏写与不写都在这
+         super();//默认调用父类的无惨构造器隐藏写与不写都在这
       //  super("无参构造器Sub()初始化", 100);
         System.out.println("子类构造器sub()被调用.....");
     }

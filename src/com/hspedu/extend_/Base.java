@@ -10,6 +10,7 @@ public class Base extends TopBase {
     //
     public Base() {//无产构造器
 //        子类必须调用父类的构造器， 完成父类的初始化
+        super();
         System.out.println("父类Base()构造器被调用");
     }
 
