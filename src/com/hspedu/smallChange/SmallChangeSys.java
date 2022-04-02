@@ -4,7 +4,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
 
-public class SmallChangeSys {
+public class  SmallChangeSys {
     //化繁为简
     //1.完成显示菜单，并可以选择菜单，给出提示
     //2.完成零钱通明细

@@ -1,6 +1,6 @@
 package com.hspedu.object.exercise.Homework08;
 
-public class BankAccount {
+public class  BankAccount {
     private double balance;
 
     public BankAccount(double initialBalance) {

@@ -7,7 +7,7 @@ public class thisDe {
     }
 }
 
-class T{
+class  T{
 //    public void f1(){
 //        System.out.println("f1()方法");
 //    }

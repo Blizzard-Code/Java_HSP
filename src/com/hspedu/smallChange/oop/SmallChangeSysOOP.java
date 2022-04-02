@@ -9,7 +9,7 @@ import java.util.Scanner;
  * 使用oop面向对象编程
  * 将各个功能对应一个方法
  */
-public class SmallChangeSysOOP {
+public class  SmallChangeSysOOP {
     //属性
     //定义相关的变量
     boolean loop = true;

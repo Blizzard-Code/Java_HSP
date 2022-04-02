@@ -1,6 +1,6 @@
 package com.hspedu.extend_.exercise;
 
-public class NotePad extends Computer {
+public class  NotePad extends Computer {
     private String color;
 
     public NotePad(String cpu, int memory, int disk, String color) {

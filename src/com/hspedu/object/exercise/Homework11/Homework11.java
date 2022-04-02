@@ -1,6 +1,6 @@
 package com.hspedu.object.exercise.Homework11;
 
-public class Homework11 {
+public class  Homework11 {
     public static void main(String[] args) {
         //向上转型
         Person person = new Student();

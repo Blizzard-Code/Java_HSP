@@ -1,6 +1,6 @@
 package com.hspedu.object.exercise.Homework04;
 
-public class DeptManager extends Employee {
+public class  DeptManager extends Employee {
     private double bonus;
 
     public DeptManager(String name, double singleDaySal, double workDay, double grade) {

@@ -9,7 +9,7 @@ public class DynamicBinding {
     }
 }
 
-class A {//父类
+class  A {//父类
     public int i = 10;
     //动态绑定机制:
    // java的动态绑定机制

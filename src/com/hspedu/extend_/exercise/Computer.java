@@ -1,6 +1,6 @@
 package com.hspedu.extend_.exercise;
 
-public class Computer {
+public class  Computer {
     private String cpu;
     private int memory;
     private int disk;

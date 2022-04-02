@@ -1,6 +1,6 @@
 package com.hspedu.object.exercise.Homework13;
 
-public class Teacher extends Person {
+public class  Teacher extends Person {
     private int work_age;
 
     public Teacher(String name, String sex, int age, int work_age) {

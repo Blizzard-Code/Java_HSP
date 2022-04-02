@@ -1,6 +1,6 @@
 package com.hspedu.object.exercise.Homework13;
 
-public class Homework13 {
+public class  Homework13 {
     public static void main(String[] args) {
         Person[] p = new Person[4];
         p[0] = new Student("学生小红","女",14,"20180039");
@@ -16,7 +16,7 @@ public class Homework13 {
 
     }
 }
-class Method{
+class  Method{
     //排序
     public void sort(Person[] p ){
         Person temp = null;

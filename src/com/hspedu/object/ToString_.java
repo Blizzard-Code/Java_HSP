@@ -14,7 +14,7 @@ public class ToString_ {
     }
 }
 
-class Monster {
+class  Monster {
     private String name;
     private  String job;
     private double sal;

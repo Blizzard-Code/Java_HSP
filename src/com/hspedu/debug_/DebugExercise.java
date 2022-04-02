@@ -1,6 +1,6 @@
 package com.hspedu.debug_;
 
-public class DebugExercise {
+public class  DebugExercise {
     public static void main(String[] args) {
         //创建对象的流程
         //加载Person类信息

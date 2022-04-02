@@ -6,7 +6,7 @@ package com.hspedu.encap;
 //2.通过setXxx的方法给Account的属性赋值。
 // 3.在AccountTest中测试
 
-public class Account {
+public class  Account {
     private  String name;
     private double balance;
     private String password;

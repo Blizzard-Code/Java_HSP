@@ -1,6 +1,6 @@
 package com.hspedu.object.exercise.Homework05;
 
-public class Homework5 {
+public class  Homework5 {
     public static void main(String[] args) {
         Peasant peasant = new Peasant("锄禾",2000);
         peasant.printAnnualSal();

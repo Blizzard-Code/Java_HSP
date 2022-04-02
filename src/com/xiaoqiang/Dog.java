@@ -1,4 +1,4 @@
 package com.xiaoqiang;
 
-public class Dog {
+public class  Dog {
 }

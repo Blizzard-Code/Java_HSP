@@ -11,7 +11,7 @@ package com.hspedu.object.exercise.Homework04;
         (5)定义并初始化普通员工对象，调用打印工资方法输出工资，定义并初始化部门经理对象
         ,调用打印工资方法输出工资*/
 
-public class NormalEmployee extends Employee {
+public class  NormalEmployee extends Employee {
     public NormalEmployee() {
     }
 

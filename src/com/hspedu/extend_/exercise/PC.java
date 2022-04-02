@@ -1,6 +1,6 @@
 package com.hspedu.extend_.exercise;
 
-public class PC extends Computer {
+public class  PC extends Computer {
     private String brand;
 
     public PC(String cpu, int memory, int disk, String brand) {

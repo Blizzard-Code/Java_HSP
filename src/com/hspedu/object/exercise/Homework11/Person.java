@@ -1,6 +1,6 @@
 package com.hspedu.object.exercise.Homework11;
 
-public class Person {
+public class  Person {
     public void run(){
         System.out.println("Person Run");
     }

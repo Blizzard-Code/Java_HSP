@@ -1,6 +1,6 @@
 package com.hspedu.poly_.polyparameter_;
 
-public class Worker extends Employee {
+public class  Worker extends Employee {
     public Worker(String name, double salary) {
         super(name, salary);
     }

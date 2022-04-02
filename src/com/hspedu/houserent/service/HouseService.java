@@ -9,7 +9,7 @@ import com.hspedu.houserent.domain.House;
  * 2. 完成对房屋信息的CRUD
  */
 
-public class HouseService {
+public class  HouseService {
     private House[] houses;//保存House对象
     private int houseNums = 1;//记录当前有多少个房屋信息
     private int idCounter = 1; //记录当前的id增长到那个值

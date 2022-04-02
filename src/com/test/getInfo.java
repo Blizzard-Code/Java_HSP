@@ -1,6 +1,6 @@
 package com.test;
 
-public class getInfo {
+public class  getInfo {
     public static void main(String[] args) {
 
     }

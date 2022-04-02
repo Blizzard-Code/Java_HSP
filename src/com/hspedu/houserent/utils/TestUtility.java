@@ -1,6 +1,6 @@
 package com.hspedu.houserent.utils;
 
-public class TestUtility {
+public class  TestUtility {
     public static void main(String[] args) {
         //测试
         //要求输入一个字符串 长度最大为3

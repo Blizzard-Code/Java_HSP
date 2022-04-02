@@ -1,6 +1,6 @@
 package com.hspedu.object.exercise.Homework03;
 
-public class Teacher {
+public class  Teacher {
     private String name;
     private int age;
     private String post;

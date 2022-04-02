@@ -1,7 +1,7 @@
 package com.hspedu.extend_;
 
 //继承的本质
-public class ExtendsTheory {
+public class  ExtendsTheory {
     public static void main(String[] args) {
         Son son = new Son();
         //->按照查找关系来返回信息//

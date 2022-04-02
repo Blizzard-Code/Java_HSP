@@ -20,6 +20,6 @@ public class PolyDetail03 {
     }
 }
 
-class AA{}
+class  AA{}
 class BB extends AA{}
 

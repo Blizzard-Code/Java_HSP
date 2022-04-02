@@ -1,5 +1,5 @@
 package com.test;
-class A{
+class  A{
     public static int i = 10;
     public static void f()
     {

@@ -1,6 +1,6 @@
 package com.hspedu.object.exercise.Homework09;
 
-public class Point {
+public class  Point {
     private double x;
     private double y;
 

@@ -1,6 +1,6 @@
 package com.hspedu.object.exercise.Homework09;
 
-public class LablePoint extends Point {
+public class  LablePoint extends Point {
     private String lable;
 
     public LablePoint(String lable, double x, double y) {

@@ -1,6 +1,6 @@
 package com.hspedu.extend_.improve;
 //父类 pupil和graduate的父类
-public class Student {
+public class  Student {
     //共有属性
     public String name;
     public int age;

@@ -1,7 +1,7 @@
 package com.hspedu.extend_;
 
 // 模拟小学生考试情况
-public class Pupil {
+public class  Pupil {
     public String name;
     public int age;
     private double score;

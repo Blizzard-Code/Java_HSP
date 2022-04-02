@@ -1,6 +1,6 @@
 package com.hspedu.extend_;
 
-public class Base extends TopBase {
+public class  Base extends TopBase {
     //4个数学
     public int n1 = 100;
     protected int n2 = 200;

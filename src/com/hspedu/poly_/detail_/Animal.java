@@ -1,6 +1,6 @@
 package com.hspedu.poly_.detail_;
 
-public class Animal {
+public class  Animal {
     String name = "动物";
     int age= 10;
     public void sleep(){

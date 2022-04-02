@@ -1,6 +1,6 @@
 package com.hspedu.poly_;
 
-public class Food {
+public class  Food {
     private  String name;
 
     public Food(String name) {

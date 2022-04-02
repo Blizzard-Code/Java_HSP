@@ -11,7 +11,7 @@ import java.util.*;
 
 	
 */
-public class Utility {
+public class  Utility {
 	//静态属性。。。
     private static Scanner scanner = new Scanner(System.in);
 

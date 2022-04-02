@@ -1,6 +1,6 @@
 package com.hspedu.poly_;
 
-public class Animal {
+public class  Animal {
     private  String name;
 
     public Animal(String name) {

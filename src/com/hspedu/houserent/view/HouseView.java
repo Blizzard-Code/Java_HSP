@@ -9,7 +9,7 @@ import com.hspedu.houserent.utils.Utility;
  * 2.接收用户的输入
  * 调用HouseService完成对房屋信息的各种操作
  */
-public class HouseView {
+public class  HouseView {
     private boolean loop = true;//控制显示菜单
     private char key = ' ';//接收用户选择的哪个菜单
     private HouseService houseService = new HouseService(1);//设置数组的大学为10

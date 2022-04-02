@@ -1,6 +1,6 @@
 package com.hspedu.object.exercise.Homework05;
 
-public class Scientist extends Employee {
+public class  Scientist extends Employee {
     private double yearBonus;
 
     public Scientist(String name, double salary) {

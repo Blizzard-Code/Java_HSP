@@ -1,6 +1,6 @@
 package com.hspedu.poly_.polyparameter_;
 
-public class Manager extends Employee {
+public class  Manager extends Employee {
     private double bonus;
 
     public Manager(String name, double salary, double bonus) {

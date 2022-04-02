@@ -1,6 +1,6 @@
 package com.hspedu.extend_;
 
-public class Sub extends Base {
+public class  Sub extends Base {
     public Sub(String name, int age) {
         //1.调用父类的无惨构造器   super(); 或者什么都不写
 //        2.调用父类的Base(String name )的构造器

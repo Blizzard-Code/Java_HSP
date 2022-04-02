@@ -21,7 +21,7 @@ class Test{
     }
 }
 
-class Demo extends Test{
+class  Demo extends Test{
     String name = "jack";
     Demo(){
         super();

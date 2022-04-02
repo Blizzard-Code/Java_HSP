@@ -2,7 +2,7 @@ package com.hspedu.extend_.improve;
 
 
 
-public class Extends01 {
+public class  Extends01 {
     public static void main(String[] args) {
         Pupil pupil = new Pupil();
         pupil.name = "小明~";

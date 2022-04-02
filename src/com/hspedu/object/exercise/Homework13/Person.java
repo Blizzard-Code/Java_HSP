@@ -1,6 +1,6 @@
 package com.hspedu.object.exercise.Homework13;
 
-public class Person {
+public class  Person {
     private String name;
     private String sex;
     private int age;

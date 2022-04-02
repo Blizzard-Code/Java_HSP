@@ -1,6 +1,6 @@
 package com.hspedu.object.exercise.Homework08;
 
-public class Homework08 {
+public class  Homework08 {
     public static void main(String[] args) {
 //        CheckingAccount checkingAccount = new CheckingAccount(1000);
 //        checkingAccount.deposit(10);

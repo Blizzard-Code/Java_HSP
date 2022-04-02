@@ -1,6 +1,6 @@
 package com.hspedu.poly_;
 
-public class Master {
+public class  Master {
     private  String name;
 
     public Master(String name) {

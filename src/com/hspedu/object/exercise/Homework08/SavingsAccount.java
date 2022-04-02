@@ -7,7 +7,7 @@ package com.hspedu.object.exercise.Homework08;
         */
 
 
-public class SavingsAccount extends BankAccount {
+public class  SavingsAccount extends BankAccount {
     private int count = 3;
     private double rate = 0.01;//利率
 

@@ -1,6 +1,6 @@
 package com.hspedu.poly_.polyarr_;
 
-public class Person {
+public class  Person {
     private String name;
     private int age;
 

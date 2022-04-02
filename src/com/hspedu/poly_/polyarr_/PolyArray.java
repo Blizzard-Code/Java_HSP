@@ -4,7 +4,7 @@ package com.hspedu.poly_.polyarr_;
 // ,统一放在数组中,并调用每个对象 say方法.
 
 
-public class PolyArray {
+public class  PolyArray {
     public static void main(String[] args) {
         //父类引用可以指向子类对象
         Person[] persons = new Person[5];//person和person的子类的可以放进去

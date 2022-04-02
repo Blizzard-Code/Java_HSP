@@ -6,7 +6,7 @@ package com.hspedu.houserent.domain;
  */
 
 
-public class House {
+public class  House {
     //编号 房屋 电话 地址 月租 状态
     private int id;
     private String name;

@@ -1,6 +1,6 @@
 package com.hspedu.poly_.objectpoly;
 
-public class PolyObject {
+public class  PolyObject {
     public static void main(String[] args) {
         //对象多态特点
 

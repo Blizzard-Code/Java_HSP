@@ -1,6 +1,6 @@
 package com.hspedu.object.exercise.Homework08;
 
-public class CheckingAccount extends BankAccount {//新的账号
+public class  CheckingAccount extends BankAccount {//新的账号
     //属性
     public CheckingAccount(double initialBalance) {
         super(initialBalance);

@@ -1,6 +1,6 @@
 package com.test;
 
-public class constor {
+public class  constor {
     public static void main(String[] args) {
         Person p1 = new Person("大壮，",15);
         System.out.println("p1hascode   "+p1.hashCode());

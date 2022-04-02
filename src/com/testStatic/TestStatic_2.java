@@ -13,7 +13,7 @@ class B {
     }
 }
 
-public class TestStatic_2 {
+public class  TestStatic_2 {
     public static void main(String[] args) {
         B bb1 = B.getB();
         B bb2 = B.getB();

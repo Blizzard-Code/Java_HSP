@@ -6,7 +6,7 @@ public class Employee {
     }
 }
 
-class emp {
+class  emp {
     String name;
     String sex;
     int age;

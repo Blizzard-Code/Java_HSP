@@ -1,6 +1,6 @@
 package com.hspedu.extend_.super_;
 
-public class B extends A {
+public class  B extends A {
     public void hi() {
         //访问父类的属性 但不能访问父类的private属性
         System.out.println(super.n1 + super.n2 + super.n3);

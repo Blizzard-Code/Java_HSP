@@ -1,6 +1,6 @@
 package com.hspedu.extend_.exercise;
 
-public class ExtendsExercise03 {
+public class  ExtendsExercise03 {
     public static void main(String[] args) {
         PC pc = new PC("Krin9000",12,1024,"HUAWEI");
         pc.printInfo();

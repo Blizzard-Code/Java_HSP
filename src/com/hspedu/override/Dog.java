@@ -29,7 +29,7 @@ public class Dog extends Animal {
     }
 }
 
-class AAA {
+class  AAA {
 
 }
 

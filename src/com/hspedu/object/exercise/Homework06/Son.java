@@ -1,6 +1,6 @@
 package com.hspedu.object.exercise.Homework06;
 
-public class Son extends Father {
+public class  Son extends Father {
     String name = "BB";
 
     public void g1(){

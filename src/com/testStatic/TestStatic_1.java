@@ -1,6 +1,6 @@
 package com.testStatic;
 
-class A {
+class  A {
     private int i;
     public  static int cnt = 0;
 

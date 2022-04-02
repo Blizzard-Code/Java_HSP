@@ -1,6 +1,6 @@
 package com.hspedu.poly_.detail_;
 
-public class PolyDetail {
+public class  PolyDetail {
     public static void main(String[] args) {
         //向上转型 父类引用指向了子类的对象
         // 语法 父类引用名 = new 子类类型11

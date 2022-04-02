@@ -45,7 +45,7 @@ class NumMax {
     }
 }
 
-class A02 {
+class  A02 {
     public int find(String fingStr, String[] arr) {
         if (arr != null && arr.length > 0) {
             for (int i = 0; i < arr.length; i++) {

@@ -6,7 +6,7 @@ package com.hspedu.encap;
 
 import java.util.Scanner;
 
-public class  Encapsulation01 {
+public class   Encapsulation01 {
     public static void main(String[] args) {
    //     Person person = new Person();
 //        person.name = "jack";

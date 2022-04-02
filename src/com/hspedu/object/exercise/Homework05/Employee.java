@@ -1,7 +1,7 @@
 package com.hspedu.object.exercise.Homework05;
 
 
-public class Employee {
+public class  Employee {
     private String name;
     private double salary;
     private  int salMonth=12;

@@ -3,7 +3,7 @@ package com.hspedu.debug_;
 import java.util.Arrays;
 
 //演示执行到下一个断点同时支持动态的下短短
-public class Debug04 {
+public class  Debug04 {
     public static void main(String[] args) {
         int arr[] = {1,-1,10,-20,100};
         Arrays.sort(arr);

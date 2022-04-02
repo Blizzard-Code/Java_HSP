@@ -1,6 +1,6 @@
 package com.hspedu.object.exercise.Homework10;
 
-public class Doctor {
+public class  Doctor {
     private String name;
     private int age;
     private String job;

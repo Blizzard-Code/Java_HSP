@@ -4,7 +4,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
 
-public class SmallChangeSysOOP {
+public class  SmallChangeSysOOP {
     //显示菜单
     boolean loop = true;
     String details = "";

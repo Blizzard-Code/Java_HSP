@@ -1,6 +1,6 @@
 package com.hspedu.poly_.polyparameter_;
 
-public class Employee {
+public class  Employee {
     private String name;
     private double salary;
 

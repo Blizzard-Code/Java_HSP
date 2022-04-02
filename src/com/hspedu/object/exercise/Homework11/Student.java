@@ -1,6 +1,6 @@
 package com.hspedu.object.exercise.Homework11;
 
-public class Student extends Person {
+public class  Student extends Person {
     @Override
     public void run() {
         System.out.println("student run");

@@ -1,6 +1,6 @@
 package com.hspedu.extend_.super_;
 
-public class A {
+public class  A {
     public int n1 = 100;
     protected int n2 = 200;
     int n3 = 300;

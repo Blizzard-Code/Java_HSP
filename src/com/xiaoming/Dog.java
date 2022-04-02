@@ -1,4 +1,4 @@
 package com.xiaoming;
 
-public class Dog {
+public class  Dog {
 }

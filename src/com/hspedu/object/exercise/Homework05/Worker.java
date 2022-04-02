@@ -1,6 +1,6 @@
 package com.hspedu.object.exercise.Homework05;
 
-public class Worker extends Employee {
+public class  Worker extends Employee {
     public Worker(String name, double salary) {
         super(name, salary);
     }

@@ -20,5 +20,5 @@ public class Equals01 {
 class B {
 }
 
-class A extends B {
+class  A extends B {
 }

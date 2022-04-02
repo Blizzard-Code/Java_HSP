@@ -1,6 +1,6 @@
 package com.hspedu.poly_.polyarr_;
 
-public class Teacher extends Person {
+public class  Teacher extends Person {
     private double salary;
 
     public Teacher(String name, int age, double salary) {

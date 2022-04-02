@@ -2,7 +2,7 @@ package com.hspedu.object;
 //应用实例:判断两个Person对象的内容是否相等，如果两个Person对象的各个属性值都样,
 //        则返回true，反之false。 EqualsExercise01.java
 
-public class EqualsExercising01 {
+public class  EqualsExercising01 {
     public static void main(String[] args) {
         Person person1 = new Person("jack", 10, '男');
         Person person2 = new Person("jack", 10, '男');

@@ -1,6 +1,6 @@
 package com.hspedu.object.exercise.Homework05;
 
-public class HomeworkPoly_ {
+public class  HomeworkPoly_ {
     public static void main(String[] args) {
         Employee[] employee = new Employee[5];
         employee[0] = new Worker("工人", 3000);

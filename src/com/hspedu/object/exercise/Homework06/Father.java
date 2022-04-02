@@ -1,6 +1,6 @@
 package com.hspedu.object.exercise.Homework06;
 
-public class Father extends Grand {
+public class  Father extends Grand {
     String id = "001";
     private double score;
     public void f1(){

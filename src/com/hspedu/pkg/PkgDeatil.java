@@ -4,7 +4,7 @@ package com.hspedu.pkg;
 import java.util.Arrays;
 import java.util.Scanner;
 //import指令 防在package最面
-public class PkgDeatil {
+public class  PkgDeatil {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int [] arr = {0,-1,1};

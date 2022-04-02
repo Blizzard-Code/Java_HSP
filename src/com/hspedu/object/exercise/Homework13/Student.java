@@ -1,6 +1,6 @@
 package com.hspedu.object.exercise.Homework13;
 
-public class Student extends Person {
+public class  Student extends Person {
 
     private String stu_id;
 

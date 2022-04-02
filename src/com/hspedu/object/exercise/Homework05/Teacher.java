@@ -1,6 +1,6 @@
 package com.hspedu.object.exercise.Homework05;
 
-public class Teacher extends Employee {
+public class  Teacher extends Employee {
     private double tour;
     private int workday;
 

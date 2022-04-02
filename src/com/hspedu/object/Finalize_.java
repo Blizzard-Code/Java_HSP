@@ -12,7 +12,7 @@ public class Finalize_ {
         System.out.println("程序退出了");
     }
 }
-class Car{
+class  Car{
     private String name;
 
     public Car(String name) {

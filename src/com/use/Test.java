@@ -2,7 +2,7 @@ package com.use;
 
 import com.xiaoming.Dog;//只能导入一个
 
-public class Test {
+public class  Test {
     public static void main(String[] args) {
         Dog dog = new Dog();
         System.out.println(dog);

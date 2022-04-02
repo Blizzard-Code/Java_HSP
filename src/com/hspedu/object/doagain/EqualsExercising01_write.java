@@ -2,7 +2,7 @@ package com.hspedu.object.doagain;
 
 //应用实例:判断两个Person对象的内容是否相等，如果两个Person对象的各个属性值都样,
 //        则返回true，反之false。 EqualsExercise01.java
-public class EqualsExercising01_write {
+public class  EqualsExercising01_write {
     public static void main(String[] args) {
         Person p1 = new Person("JACK1", 18, "男");
         Person p2 = new Person("JACK", 18, "男");

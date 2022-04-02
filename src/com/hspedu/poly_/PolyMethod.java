@@ -1,6 +1,6 @@
 package com.hspedu.poly_;
 
-public class PolyMethod {
+public class  PolyMethod {
     public static void main(String[] args) {
         //方法重载t体现多态 通过不同参数的sum 调佣不同方法
         A a = new A();
@@ -14,14 +14,14 @@ public class PolyMethod {
     }
 }
 
-class B {//父类
+class  B {//父类
 
     public void say() {
         System.out.println("B say()方法被调用");
     }
 }
 
-class A extends B {//子类
+class  A extends B {//子类
 
     public int sum(int n1, int n2) {//和下面sum构成重载
         return n1 + n2;
